@@ -377,29 +377,29 @@ textarea {
     font-weight: 600;
      }
     .contact__form-input::placeholder {
-      color: #999;
+      color: #000000;
       font-weight: 600;
       font-size: 1.6rem; }
     .contact__form-input::-webkit-input-placeholder {
-      color: #999;
+      color: #000000;
       font-weight: 600;
       font-size: 1.6rem; }
     .contact__form-input:-ms-input-placeholder {
-      color: #999;
+      color: #000000;
       font-weight: 600;
       font-size: 1.6rem; }
     .contact__form-input::-ms-input-placeholder {
-      color: #999;
+      color: #000000;
       font-weight: 600;
       font-size: 1.6rem; }
     .contact__form-input:-moz-placeholder {
       opacity: 1;
-      color: #999;
+      color: #000000;
       font-weight: 600;
       font-size: 1.6rem; }
     .contact__form-input::-moz-placeholder {
       opacity: 1;
-      color: #999;
+      color: #000000;
       font-weight: 600;
       font-size: 1.6rem; }
   .contact__btn {
