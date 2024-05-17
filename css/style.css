@@ -166,9 +166,9 @@ textarea {
     background: #ffffff;
     color: #000000; }
   .btn--theme-inv {
-    color: #0062b9;
-    background: #fff;
-    border: 2px solid #0062b9;
+    color: #ffffff;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(161, 159, 3, 0.8));
+    border: 2px solid #000000;
     box-shadow: none;
     padding: calc(1.5rem - 2px) calc(5rem - 2px); }
 
@@ -412,7 +412,7 @@ textarea {
 
 .project-cs-hero {
   color: #fff;
-  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(161, 159, 3, 0.8)), url(../../assets/svg/common-bg.svg);
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -467,7 +467,7 @@ textarea {
   .project-details__desc-para {
     font-size: 1.8rem;
     line-height: 1.7;
-    color: grey;
+    color: rgb(1, 1, 1);
     margin-bottom: 2rem; }
 
 .project-details__tools-used {
@@ -677,9 +677,9 @@ textarea {
     margin-bottom: 1.5rem;
     margin-right: 1.5rem;
     font-size: 1.6rem;
-    background: rgb(253, 253, 253);
+    background: rgb(255, 255, 255);
   
-    border-radius: 5px;
+    border-radius: 5px; border: 1px solid black;
     font-weight: 600;
     color: #000000; }
 
