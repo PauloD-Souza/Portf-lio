@@ -38,7 +38,7 @@ headerLogoConatiner.addEventListener('click', () => {
 })
 const headingText = "Olá, Meu Nome é Paulo";
 const welcomeText = "Seja bem-vindo (Este projeto tem integração com o Vlibras 🧏‍♂️)";
-const subtitleText = "Sou estudante do 9° periodo do curso de Ciências Da Computação na Universidade Federal Da Paraíba (UFPB)";
+const subtitleText = "Sou estudante do 9° periodo do curso de Ciência Da Computação na Universidade Federal Da Paraíba (UFPB)";
 let headingIndex = 0;
 let welcomeIndex = 0;
 let subtitleIndex = 0;
